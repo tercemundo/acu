@@ -1,0 +1,5 @@
+wvsc filter=lfs diff=lfs merge=lfs -text
+How[[:space:]]Install.txt filter=lfs diff=lfs merge=lfs -text
+acunetix_13.0.200217097_x64_.sh filter=lfs diff=lfs merge=lfs -text
+hola filter=lfs diff=lfs merge=lfs -text
+license_info.json filter=lfs diff=lfs merge=lfs -text
